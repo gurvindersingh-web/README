@@ -1,5 +1,5 @@
 # README
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Guvinder Singh]! 👋
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession/Role, e.g., Software Developer, Data Scientist, etc.] with a love for building cool projects and solving problems. Here's a little about me:
 
