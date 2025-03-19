@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role, e.g., Soft
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+### Progress: Code Review [█████████████░░░░░░░░░░░░░░░░░░░░░░░] 13% | Issues [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0% | Pull Requests [█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5%
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -32,13 +32,6 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Role, e.g., Soft
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📂 Projects
-
-Here are some of the projects I've worked on:
-
-- **[Project Name 1](https://github.com/yourusername/project1)** - A brief description of the project.
-- **[Project Name 2](https://github.com/yourusername/project2)** - A brief description of the project.
-- **[Project Name 3](https://github.com/yourusername/project3)** - A brief description of the project.
 
 ## 📈 GitHub Stats
 
